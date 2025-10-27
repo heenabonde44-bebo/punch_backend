@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+couchbase
+couchbase-management
+python-dotenv
